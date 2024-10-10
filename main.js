@@ -92,8 +92,8 @@ var ctx = canvas.getContext("2d");
 
 // 8) TRAZO DE COMBINACIONES DE LÍNEAS Y FIGURAS
 
-roundedRect(ctx, 35, 35, 190, 190, 40);
-roundedRect(ctx, 35, 35, 190, 190, 40);
+roundedRect(ctx, 12, 13, 195, 350, 47);
+roundedRect(ctx, 12, 13, 195, 350, 47);
 roundedRect(ctx, 53, 53, 49, 33, 10);
 roundedRect(ctx, 53, 119, 49, 16, 6);
 roundedRect(ctx, 135, 53, 49, 33, 10);
